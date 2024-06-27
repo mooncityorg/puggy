@@ -37,7 +37,7 @@ const Hero: FC = () => {
         </p>
         <div className="flex items-center gap-2 lg:gap-6 justify-center relative z-50 flex-col md:flex-row">
           <Link href={"/"}>
-            <div className="w-[160px] lg:w-[300px] h-[50px] lg:h-[80px] bg-red-500 border-2 border-black duration-200 hover:scale-105 uppercase grid place-content-center text-xl lg:text-4xl rotate-3 my-10">
+            <div className="w-[160px] lg:w-[300px] h-[50px] text-white lg:h-[80px] bg-[#ed3b23] border-2 border-black duration-200 hover:scale-105 uppercase grid place-content-center text-xl lg:text-4xl rotate-3 my-10">
               buy $puggy
             </div>
           </Link>
