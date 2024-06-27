@@ -9,7 +9,7 @@ export default function CapSection() {
         PUT ON A CAP
       </h1>
       <div className="max-w-[800px] mx-auto flex items-center gap-10 mt-10 flex-col md:flex-row">
-        <div className="w-full md:w-[320px] h-[320px] relative">
+        <div className="w-full md:w-[720px] h-[320px] relative">
           <Image src={"/media/puggy_4.png"} fill objectFit="contain" alt="" />
         </div>
         <div className="w-full md:w-[calc(100%-360px)]">

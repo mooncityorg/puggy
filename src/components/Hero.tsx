@@ -31,7 +31,7 @@ const Hero: FC = () => {
       <div className="relative lg:absolute lg:left-1/2 lg:top-1/2 w-full md:w-[560px] mx-auto lg:mx-0 mt-20 lg:mt-0 px-10">
         <p className="px-4 sm:px-0 text-black text-2xl md:text-3xl leading-[1.4] -ml-10 -mt-10 text-left">
           Welcome to The Pug Club.
-
+          <br />
           <br />
           $PUGGY is the token that will power our asociation to make it one of the biggest Alpha Groups in the space.
         </p>

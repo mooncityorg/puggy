@@ -14,9 +14,8 @@ export default function Home() {
       <CapSection />
       <Tokenomics />
       <Features />
-      <Intro media="/media/puggyjetski_copie_2.mov" />
-      <Socials />
       <Intro media="/media/fight.mov" />
+      <Socials />
     </main>
   );
 }
