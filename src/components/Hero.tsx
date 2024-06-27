@@ -41,7 +41,7 @@ const Hero: FC = () => {
               buy $puggy
             </div>
           </Link>
-          <div className="flex items-center justify-center gap-2 lg:gap-6">
+          <div className="flex items-center justify-center gap-2 lg:gap-6 mb-5 md:mb-0">
             <Link href={"https://x.com/onepugclub"} target="_blank">
               <div className="w-9 lg:w-[60px] h-9 lg:h-[60px] bg-black duration-200 hover:scale-110 grid place-content-center -rotate-1">
                 <TwitterIcon />
