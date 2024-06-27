@@ -20,12 +20,12 @@ export default function Socials() {
             </Link>
             <Link href={"https://t.me/puggyclub"} target="_blank">
               <div className="w-12 lg:w-[60px] aspect-square bg-black grid place-content-center rotate-2">
-                <DiscordIcon />
+                <TelegramIcon />
               </div>
             </Link>
             <Link href={"#"} target="_blank">
               <div className="w-12 lg:w-[60px] aspect-square bg-black grid place-content-center  -rotate-3">
-                <TelegramIcon />
+                <Instagram />
               </div>
             </Link>
           </div>
