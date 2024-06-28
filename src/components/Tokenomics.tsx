@@ -9,7 +9,7 @@ export default function Tokenomics() {
         </h1>
         <p className="max-w-[644px] mx-auto text-center my-6 lg:my-10 text-xl lg:text-3xl px-5 text-black">
           The total supply was 1,000,000 but this small bastard burned half of
-          it forever. Now there is only 500,000 $puggy&#39;s out there. He is
+          it forever. Now there is only 500,000,000 $puggy&#39;s out there. He is
           coming for more…
         </p>
         <div className="max-w-[960px] mx-auto flex gap-6 items-center justify-center flex-col lg:flex-row">
@@ -26,7 +26,7 @@ export default function Tokenomics() {
           <div className="flex flex-col gap-5 w-full px-5 lg:w-[calc(100%-400px)]">
             <div className="bg-black border-2 border-white text-center text-white w-full py-5">
               <h2 className="text-4xl uppercase">total supply</h2>
-              <p className="text-xl mt-2">500,000 $puggy</p>
+              <p className="text-xl mt-2">500,000,000 $puggy</p>
             </div>
             <div className="bg-black border-2 border-white text-center text-white w-full py-5 overflow-hidden">
               <h2 className="text-4xl ">CA</h2>
