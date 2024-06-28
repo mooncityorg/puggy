@@ -13,9 +13,9 @@ export default function Home() {
       <Hero />
       <MovingBar />
       <CapSection />
+      <Roadmap />
       <Tokenomics />
       <Features />
-      <Roadmap />
       <Intro media="/media/fight.mov" />
       <Socials />
     </main>

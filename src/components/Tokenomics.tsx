@@ -29,7 +29,7 @@ export default function Tokenomics() {
               <p className="text-xl mt-2">500,000 $puggy</p>
             </div>
             <div className="bg-black border-2 border-white text-center text-white w-full py-5 overflow-hidden">
-              <h2 className="text-4xl ">Coming Soon</h2>
+              <h2 className="text-4xl ">CA</h2>
 
             </div>
           </div>
