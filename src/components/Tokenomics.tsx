@@ -8,7 +8,7 @@ export default function Tokenomics() {
           Tokenomics
         </h1>
         <p className="max-w-[644px] mx-auto text-center my-6 lg:my-10 text-xl lg:text-3xl px-5 text-black">
-          The total supply was 1,000,000 but this small bastard burned half of
+          The total supply was 1,000,000,000 but this small bastard burned half of
           it forever. Now there is only 500,000,000 $puggy&#39;s out there. He is
           coming for more…
         </p>
